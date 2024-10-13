@@ -2,7 +2,7 @@
   <h2>Wello Word! Eu sou o Rafael Augusto, estudante de ADS!</h2>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="42%"  src="https://github-readme-stats.vercel.app/api?username=rafaa-augusto&show_icons=true&theme=tokyonight" />
+  <img width="52%"  src="https://github-readme-stats.vercel.app/api?username=rafaa-augusto&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaa-augusto&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
