@@ -1,5 +1,8 @@
 <div align="center" >
-  <h2>Wello Word! Eu sou o Rafael Augusto, estudante de ADS!</h2>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0489B1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0489B1&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORD!!;Sou+o+Rafael+Augusto;Seja+bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
+
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="52%"  src="https://github-readme-stats.vercel.app/api?username=rafaa-augusto&show_icons=true&theme=tokyonight" />
