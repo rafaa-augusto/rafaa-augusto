@@ -1,4 +1,4 @@
-<div  >
+<div align="center" >
   <h2>Wello Word! Eu sou o Rafael Augusto, estudante de ADS!</h2>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
